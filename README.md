@@ -1,3 +1,4 @@
-#setup
+## Setup
+
 terraform init
 terraform apply
